@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="angularTomcat:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="angularTomcat-1.0.war">
+      <element id="artifact" artifact-name="angularTomcat:war exploded" />
+    </root>
+  </artifact>
+</component>
